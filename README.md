@@ -1,3 +1,4 @@
+https://img.shields.io/github/forks/GhailanFadah/GhailanFadah?style=flat-square
 <h1 align="center">Hi 👋, I'm Ghailan Fadah</h1>
 <h3 align="center">A Junior at Colby College with an interest in software development and employment</h3>
 
