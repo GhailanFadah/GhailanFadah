@@ -1,4 +1,4 @@
-https://img.shields.io/github/forks/GhailanFadah/GhailanFadah?style=flat-square
+[![GitHub forks](https://img.shields.io/github/forks/GhailanFadah/GhailanFadah)](https://github.com/GhailanFadah/GhailanFadah/network)
 <h1 align="center">Hi 👋, I'm Ghailan Fadah</h1>
 <h3 align="center">A Junior at Colby College with an interest in software development and employment</h3>
 
