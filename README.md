@@ -1,6 +1,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/GhailanFadah/GhailanFadah)](https://github.com/GhailanFadah/GhailanFadah/network)
 <h1 align="center">Hi 👋, I'm Ghailan Fadah</h1>
-<h3 align="center">A Junior at Colby College with an interest in software development and employment</h3>
+<h3 align="center">recent graduate of Colby college passionate about using software for the betterment of society</h3>
 
 - 🔭 I’m currently working on an app tailored towards college athletes to optimize their workout plan [Athletics AC](https://github.com/GhailanFadah/CS321)
 
